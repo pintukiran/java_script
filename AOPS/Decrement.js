@@ -1,0 +1,10 @@
+/////////////////post Decrement//////////////
+let x=2
+let y=x--
+console.log(y,x);
+
+////////////////pre Decrement////////////////
+console.log("//////////////////////////////////");
+let a=4;
+b=--a
+console.log(b,a);
