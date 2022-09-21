@@ -3,7 +3,7 @@ let add=(a,b)=>{
 }
 add(10,30)
 
-let wish=()=>class "gud mrng"
+let wish=()=>{
 
-let r=wish()
-console.log(r);
+}
+
